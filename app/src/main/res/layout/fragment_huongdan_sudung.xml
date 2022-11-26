@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".ui.huongdangsudung.HuongdanSudungFragment">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tvnhay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="20dp"
+            android:text="Skip"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_marginTop="20dp"
+            android:id="@+id/tvungdung"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:text="Ứng dụng ôn thi GPLX"
+            android:textColor="@color/black"
+            android:textSize="30dp"
+            android:textStyle="bold" />
+    </ScrollView>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <TextView
+        android:fontFamily="@font/lobster"
+        android:id="@+id/tvtrangbi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:text="App được trang bị hàng trăm câu lý thuyết khác nhau giúp người dùng có kho tàng ôn luyện chi tiết, đầy đủ. Không những vậy, App Thi thử bằng lái xe máy A1 còn được tích hợp tính năng thi thử lý thuyết. Do đó, người dùng có thể trải nghiệm thử kỳ thi lý thuyết ngay trên thiết bị của mình. Điều này giúp bạn dễ dàng hình dung ra bộ đề thi thật, làm quen và định hướng được phương pháp tìm câu trả lời đúng.\n\nNhững tính năng nổi bật của Ứng dụng ôn thi GPLX\n• Bộ 200 câu lý thuyết được cập nhật mới nhất.\n• Hệ thống câu hỏi được chia theo từng nhóm cụ thể: sa hình, biển báo, khái niệm, quy tắc…\n• Thi thử lý thuyết tại nhà.\n• Hướng dẫn các mẹo thi hữu ích cho cả lý thuyết lẫn thực hành.\n• Có video hướng dẫn người dùng chi tiết.\n• Có thể tra cứu biển báo đường bộ và tra cứu luật giao thông.\n\n"
+        android:textColor="@color/black"
+        android:textSize="24dp"
+        android:textStyle="normal" />
+    </ScrollView>
+
+</LinearLayout>

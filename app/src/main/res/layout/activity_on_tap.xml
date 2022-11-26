@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.OntapActivity">
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tablayoutontap"
+        android:layout_width="match_parent"
+        app:tabSelectedTextColor="#FF0077"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:background="#03C8DA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/searchv"
+            app:queryBackground="@null"
+            app:iconifiedByDefault="false"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_margin="18dp"
+            android:background="@drawable/bg_search_view"
+            android:padding="10dp"
+            app:queryHint="Tìm kiếm nhanh"/>
+    </LinearLayout>
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewpagerontap"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>

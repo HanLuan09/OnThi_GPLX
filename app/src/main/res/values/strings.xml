@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BTL</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_fav">Fav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="bien_bao_cam_fragment">Hello blank fragment</string>
+    <string name="bien_hieu_lenh_fragment">Hello blank fragment</string>
+    <string name="bien_chi_dan_fragment">Hello blank fragment</string>
+    <!--    meothi-->
+    <string name="desc_content">     Android powers hundreds of millions of mobile devices in more than 190 countries around the world. It\'s the largest installed base of any mobile platform and growing fast—every day another million users power up their Android devices for the first time and start looking for apps, games, and other digital content.
+
+Android gives you a world-class platform for creating apps and games for Android users everywhere, as well as an open marketplace for distributing to them instantly.
+</string>
+    <string name="title_activity_navigation_home">NavigationHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ôn thi GPLX</string>
+    <string name="nav_header_subtitle">Hãy lái xe bằng cả trái tim</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Trang chính</string>
+    <string name="menu_gallery">Hướng dẫn sử dụng</string>
+    <string name="menu_slideshow">Chia sẻ ứng dụng</string>
+    <string name="menu_canhan">Thông tin cá nhân</string>
+    <string name="menu_dangxuat">Đăng xuất</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

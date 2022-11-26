@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/mainbackground"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="460dp">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:layout_marginTop="75dp"
+            android:layout_gravity="center"
+            android:src="@drawable/icon_polic" />
+        <TextView
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="Ôn Thi GPLX"
+            android:textColor="#F4364C"
+            android:textSize="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="An toàn giao thông"
+            android:textColor="@color/teal_700"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:textStyle="bold"
+            android:layout_gravity="center"
+            android:text="Trách nhiệm của mỗi người"
+            android:textColor="@color/teal_700"
+            android:textSize="30sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+    <Button
+        android:id="@+id/buttondangnhapungdung"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:textSize="18dp"
+        android:textColor="@color/teal_200"
+        android:layout_width="330dp"
+        android:layout_height="60dp"
+        android:backgroundTint="#7A000000"
+        android:text="BẮT ĐẦU SỬ DỤNG ỨNG DỤNG"/>
+    <Button
+        android:id="@+id/buttonthoatungdung"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:textSize="18dp"
+        android:backgroundTint="#FF8400"
+        android:textColor="@color/black"
+        android:text="Thoát ứng dụng"/>
+
+</LinearLayout>

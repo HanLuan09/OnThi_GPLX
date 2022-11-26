@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:context=".activity.LoginActivity">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:text="Ứng dụng ôn thi GPLX"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:textColor="@color/colorAccent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center"
+        android:text="Đăng nhập"
+        android:textStyle="bold"
+        android:textSize="40sp"
+        android:textColor="@color/teal_200"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:hint="Tên người dùng"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/username1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+        <com.google.android.material.textfield.TextInputLayout
+            android:layout_marginTop="10dp"
+            android:hint="Nhập mật khẩu"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="match_parent"
+            app:passwordToggleEnabled="true"
+            android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/password1"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/tvquenmkhau"
+        android:layout_marginLeft="250dp"
+        android:textSize="18sp"
+        android:textColor="#016887"
+        android:textStyle="bold"
+        android:layout_marginTop="15dp"
+        android:text="Quên mật khẩu?"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:id="@+id/btnsignin1"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Đăng nhập"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/teal_200"
+        android:backgroundTint="@color/black"
+        android:layout_below="@+id/password1"/>
+    <Button
+        android:id="@+id/btnsignin"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="Người dùng mới? Đi tới trang đăng ký"
+        android:textSize="15sp"
+        android:textStyle="bold"
+        android:textColor="@color/teal_700"
+        android:backgroundTint="#02000000"
+        android:layout_marginTop="25dp"
+        android:layout_below="@+id/btnsignup"/>
+</LinearLayout>

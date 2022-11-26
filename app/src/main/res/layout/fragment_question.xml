@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@color/primary_quiz"
+    tools:context=".fragment.QuestionFragment">
+
+    <LinearLayout
+        android:id="@+id/layoutquestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_qstion"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:gravity="center"
+            android:text="Câu hỏi"
+            android:textColor="#FF9800"
+            android:textSize="25sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/layoutquestion"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imv_qstionanh"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="30dp" />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <RadioGroup
+            android:id="@+id/options"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="5dp">
+
+            <RadioButton
+                android:onClick="ClickA"
+                android:id="@+id/optionA"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundable"
+                android:padding="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:onClick="ClickB"
+                android:id="@+id/optionB"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/roundable"
+                android:padding="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:onClick="ClickC"
+                android:id="@+id/optionC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/roundable"
+                android:padding="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="15sp" />
+
+            <RadioButton
+                android:onClick="ClickD"
+                android:id="@+id/optionD"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/roundable"
+                android:padding="10dp"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="15sp" />
+
+        </RadioGroup>
+        </ScrollView>
+    </LinearLayout>
+
+</RelativeLayout>

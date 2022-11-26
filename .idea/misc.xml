@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.127" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable/arrow_down.xml" value="0.142" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable/arrow_up.xml" value="0.142" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable/cauhoi_diemliet.xml" value="0.142" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable/edittextbackground.xml" value="0.126" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.136" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/drawable/ic_launcher_background.xml" value="0.126" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_bien_bao.xml" value="0.1408514492753623" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_gioi_thieu_thuc_hanh.xml" value="0.13043478260869565" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_hoc_bien_bao.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_login3.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_logout.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_ly_thuyet.xml" value="0.1634963768115942" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_main4.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_manhinhchinh.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_meo_thi.xml" value="0.25" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_meothi.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_navigation_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_thi_thu.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/activity_thuc_hanh.xml" value="0.1634963768115942" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/app_bar_navigation_home.xml" value="0.1490036231884058" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/content_navigation_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/costomdialon_dangnhap.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/customdialog.xml" value="0.12952898550724637" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/customdialog_dangky.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/dong_hoc_bien_bao.xml" value="0.1322463768115942" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/dong_item.xml" value="0.13677536231884058" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/fragment_bien_bao_cam.xml" value="0.1408514492753623" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/fragment_bien_chi_dan.xml" value="0.1408514492753623" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/fragment_bien_hieu_lenh.xml" value="0.1408514492753623" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/fragment_gallery.xml" value="0.1490036231884058" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/fragment_home.xml" value="0.1490036231884058" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/fragment_slideshow.xml" value="0.1490036231884058" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/layout_header_navi.xml" value="0.10326086956521739" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/nav_header_navigation_home.xml" value="0.1490036231884058" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/tab1_thuchanh.xml" value="0.1408514492753623" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/layout/tab2_thuchanh.xml" value="0.1408514492753623" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/menu/activity_main_drawer.xml" value="0.1796875" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/menu/icmenu.xml" value="0.17864583333333334" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/menu/navigation_home.xml" value="0.1796875" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.12" />
+        <entry key="..\:/Luan/BTL/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1455" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable-anydpi/background_circle_red.xml" value="0.112" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable-anydpi/circular.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable-anydpi/ic_next.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable-anydpi/roundable.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable-mdpi/tout_btn_shape.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable/bg_search_view.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable/button_sheet_tron.xml" value="0.125" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/drawable/edittextbackground.xml" value="0.125" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/font-v26/lobster.xml" value="0.20989583333333334" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/font/lobster.xml" value="0.20885416666666667" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/font/lobster_italic.xml" value="0.17222222222222222" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/fragment/drawable/ic_baseline_exit_to_app_24.xml" value="0.112" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/fragment/drawable/ic_timer_24.xml" value="0.112" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_chonde_thithu.xml" value="0.12545289855072464" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_gioi_thieu_thuc_hanh.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_hoc_bien_bao.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_home.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_ketqua.xml" value="0.12545289855072464" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_login.xml" value="0.10597826086956522" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_login3.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_logout.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_ly_thuyet.xml" value="0.13632246376811594" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_main.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_main2.xml" value="0.13632246376811594" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_main3.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_meo_thi_ly_thuyet.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_meothi.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_navigation_home.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_on_tap.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/activity_thi_thu.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/alert_dialog.xml" value="0.12545289855072464" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/app_bar_navigation_home.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/button_sheet_choncau.xml" value="0.1381340579710145" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/content_navigation_home.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/dong_hoc_bien_bao.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/dong_meo_thi.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/dong_on_tap.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_bien_bao_cam.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_bien_canh_bao.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_bien_chi_dan.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_bien_hieu_lenh.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_cauhoi_diemliet.xml" value="0.25" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_gallery.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_huongdan_sudung.xml" value="0.1381340579710145" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_luat_giao_thong.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_lythuyet_bienbao.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_question.xml" value="0.14666666666666667" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_sa_hinh.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_slideshow.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_thongtin_canhan.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/fragment_video_thuchhanh.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/layout/nav_header_navigation_home.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/menu/activity_main_drawer.xml" value="0.1796875" />
+        <entry key="..\:/Luan/BTL_LTHDT/BTL/app/src/main/res/menu/navigation_home.xml" value="0.1796875" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/drawable-anydpi/background_circle_red.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/drawable-anydpi/ic_next.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/activity_gioi_thieu_thuc_hanh.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/activity_main.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/activity_meo_thi1.xml" value="0.1" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/activity_meo_thi_ly_thuyet.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/activity_meothi.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/app_bar_navigation_home.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/dong_hoc_bien_bao.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/dong_meo_thi.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/fragment_bien_bao_cam.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/fragment_bien_canh_bao.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/fragment_gallery.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/fragment_gioi_thieu1.xml" value="0.12635869565217392" />
+        <entry key="..\:/Luan/BTL_LTHHT/BTL/app/src/main/res/layout/fragment_home.xml" value="0.12635869565217392" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

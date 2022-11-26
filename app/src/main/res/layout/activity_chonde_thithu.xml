@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".activity.ChondeThithuActivity">
+    <LinearLayout
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde1"
+            android:text="Đề 1"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde2"
+            android:text="Đề 2"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde3"
+            android:text="Đề 3"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde4"
+            android:text="Đề 4"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde5"
+            android:text="Đề 5"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde6"
+            android:text="Đề 6"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+    </LinearLayout>
+    <LinearLayout
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde7"
+            android:text="Đề 7"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+        <Button
+            android:backgroundTint="@color/teal_700"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonde8"
+            android:text="Đề 8"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+        <Button
+            android:backgroundTint="#4CAF50"
+            android:layout_margin="10dp"
+            android:id="@+id/bttonderd"
+            android:text="Đề ngẫu nhiên"
+            android:layout_width="100dp"
+            android:layout_height="80dp"/>
+    </LinearLayout>
+</LinearLayout>
